@@ -1,0 +1,4 @@
+C:/Users/Alex/Code/Files/Code/C/Curse/CMakeFiles/Reversi.dir
+C:/Users/Alex/Code/Files/Code/C/Curse/CMakeFiles/cglm.dir
+C:/Users/Alex/Code/Files/Code/C/Curse/CMakeFiles/edit_cache.dir
+C:/Users/Alex/Code/Files/Code/C/Curse/CMakeFiles/rebuild_cache.dir
